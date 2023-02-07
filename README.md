@@ -6,3 +6,5 @@
 syntax : sudo python3 signal-strength.py <interface> <mac>
 sample : sudo python3 signal-strength.py mon0 00:11:22:33:44:55
 ```
+
+root 권한 필요
